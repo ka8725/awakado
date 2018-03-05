@@ -21,8 +21,10 @@ permalink:   /:title/
 # Build settings
 markdown: kramdown
 theme: minima
+google_analytics: UA-29677452-6
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
